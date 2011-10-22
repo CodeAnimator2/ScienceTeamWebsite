@@ -1,5 +1,4 @@
-Amador Valley Science Team</title>
-	<!-- G_HEADER.PHP CUT HERE -->
+	Amador Valley Science Team</title>
 	<link rel="stylesheet" href="/css/960.css" />
 	<link rel="stylesheet" href="/css/master.css" />
 	
@@ -21,7 +20,12 @@ Amador Valley Science Team</title>
 <body>
 <div class="container_16">
 	<header class="grid_5">
-		<a href="#" id="logo"></a>
+		<div id="logo">
+			<a href="#">
+				<img src="/img/logo.png" class="normal" />
+				<img src="/img/logo-hover.png" class="hover" />
+			</a>
+		</div>
 		<h1>Amador Valley Science Team</h1>
 		<ul id="nav">
 			<a href="#"><li>About the club</li></a>
