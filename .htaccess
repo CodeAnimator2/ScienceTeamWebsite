@@ -1,0 +1,14 @@
+# Use PHP5 Single php.ini as default
+AddHandler application/x-httpd-php5s .php
+AddType application/x-font-ttf ttf
+AddType font/opentype otf
+AddType application/vnd.ms-fontobject eot
+AddType font/x-woff woff
+
+# make www.avscienceteam.com go to avscienceteam.com
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymlinks
+Options +SymLinksIfOwnerMatch
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.(.*) [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,NC,L]
