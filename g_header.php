@@ -28,16 +28,16 @@ Amador Valley Science Team</title>
 			</a>
 		</div>
 		<h1>Amador Valley Science Team</h1>
-		<ul id="nav">
-			<a href="#"><li>About the club</li></a>
-			<a href="#"><li>Events</li></a>
-			<ul>
-				<a href="#"><li>Science Olympiad</li></a>
-				<a href="#"><li>Academic Olympiad</li></a>
-				<a href="#"><li>Bay Area Puzzle Hunt</li></a>
-				<a href="#"><li>Science Bowl</li></a>
+		<ul class="nav">
+			<li><a href="#">About the club</a></li>
+			<li><a href="#">Events</a></li>
+			<ul class="nav">
+				<li><a href="#">Science Olympiad</a></li>
+				<li><a href="#">Academic Olympiad</a></li>
+				<li><a href="#">Bay Area Puzzle Hunt</a></li>
+				<li><a href="#">Science Bowl</a></li>
 			</ul>
-			<a href="#"><li>Gallery</li></a>
-			<a href="#"><li>Contact</li></a>
+			<li><a href="#">Gallery</a></li>
+			<li><a href="#">Contact</a></li>
 		</ul>
 	</header>
