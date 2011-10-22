@@ -42,6 +42,7 @@ p, ul, ol, blockquote {
 	font-family: Helvetica, "Helvetica Neue", Arial;
 	margin-bottom: 0.7em;
 	line-height: 1.6em;
+	font-size: 18px;
 }
 
 a, a:visited {

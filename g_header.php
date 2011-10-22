@@ -1,4 +1,4 @@
-	Amador Valley Science Team</title>
+Amador Valley Science Team</title>
 	<link rel="stylesheet" href="/css/960.css" />
 	<link rel="stylesheet" href="/css/master.css" />
 	
@@ -9,12 +9,13 @@
 	<!--[if lt IE 9]>
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-	
+
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 	<meta name="viewport" content="width=1024,user-scalable=yes" />
+	<meta charset="utf-8" />
+	
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png" />
-	
-	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 </head>
 
 <body>
@@ -22,8 +23,8 @@
 	<header class="grid_5">
 		<div id="logo">
 			<a href="#">
-				<img src="/img/logo.png" class="normal" />
-				<img src="/img/logo-hover.png" class="hover" />
+				<img src="/img/logo.png" class="normal" alt="placekitten" />
+				<img src="/img/logo-hover.png" class="hover" alt="placekitten" />
 			</a>
 		</div>
 		<h1>Amador Valley Science Team</h1>

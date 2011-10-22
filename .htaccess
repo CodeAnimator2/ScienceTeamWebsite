@@ -1,5 +1,6 @@
 # Use PHP5 Single php.ini as default
 AddHandler application/x-httpd-php5s .php
+# Serve up web fonts with the correct mime types.
 AddType application/x-font-ttf ttf
 AddType font/opentype otf
 AddType application/vnd.ms-fontobject eot
