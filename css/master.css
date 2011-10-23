@@ -125,23 +125,21 @@ img {
 	padding: 5px;
 	border-top: 1px solid #c3c3c3;
 	display: block;
+	font-family: UbuntuLight, Ubuntu, Helvetica, "Helvetica Neue", Arial;
+	font-weight: normal;
+	color: #333;
 	
 	transition: background-color 0.25s ease;
 	-webkit-transition: background-color 0.25s ease;
 	-moz-transition: background-color 0.25s ease;
 	-o-transition: background-color 0.25s ease;
 }
-.nav a, .nav a:visited {
-	font-family: UbuntuLight, Ubuntu, Helvetica, "Helvetica Neue", Arial;
-	font-weight: normal;
-	color: #333;
-}
 .nav a:hover {
 	background-color: #339bd5;
 	color: #f5f5f5;
 }
 .nav a:active {
-	background-color: #1f6a95;
+	background-color: #1f6a95 !important;
 }
 .nav a:hover, .nav a:active {
 	text-shadow: none;

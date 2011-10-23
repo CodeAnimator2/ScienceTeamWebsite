@@ -1,4 +1,13 @@
-<?php include 'http://avscienceteam.com/g_document.php'; ?><?php include 'http://avscienceteam.com/g_header.php'; ?>
+<?php include 'http://avscienceteam.com/g_document.php'; ?>
+
+	<style type="text/css">
+		#nav-about {
+			background-color: #339bd5;
+			color: #f5f5f5;
+			text-shadow: none;
+		}
+	</style>
+	<title>PAGETITLE<?php include 'http://avscienceteam.com/g_header.php'; ?>
 		<h2>The <em>Heading</em> for This Page Is A Heading 2</h2>
 		<h3>Hello, and again, <a href="#">welcome</a> to the</h3>
 		<p>You will be testing with a partner today.</p>

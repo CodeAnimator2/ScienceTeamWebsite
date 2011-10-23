@@ -1,4 +1,4 @@
-Amador Valley Science Team</title>
+ - Amador Valley Science Team</title>
 	<link rel="stylesheet" href="/css/960.css" />
 	<link rel="stylesheet" href="/css/master.css" />
 	
@@ -29,17 +29,17 @@ Amador Valley Science Team</title>
 		</div>
 		<h1>Amador Valley Science Team</h1>
 		<ul class="nav">
-			<li><a href="#">About the club</a></li>
-			<li><a href="#">Events</a>
+			<li><a id="nav-about" href="/about/">About the club</a></li>
+			<li><a id="nav-events" href="/events/">Events</a>
 				<ul class="nav">
-					<li><a href="#">Science Olympiad</a></li>
-					<li><a href="#">Academic Olympiad</a></li>
-					<li><a href="#">Bay Area Puzzle Hunt</a></li>
-					<li><a href="#">Science Bowl</a></li>
+					<li><a id="nav-scioly" href="/science-olympiad/">Science Olympiad</a></li>
+					<li><a id="nav-academicoly" href="/academic-olympiad/">Academic Olympiad</a></li>
+					<li><a id="nav-puzzlehunt" href="/puzzle-hunt/">Bay Area Puzzle Hunt</a></li>
+					<li><a id="nav-scibowl" href="/science-bowl/">Science Bowl</a></li>
 				</ul>
 			</li>
-			<li><a href="#">Gallery</a></li>
-			<li><a href="#">Contact</a></li>
+			<li><a id="nav-gallery" href="/gallery/">Gallery</a></li>
+			<li><a id="nav-contact" href="/contact/">Contact</a></li>
 		</ul>
 	</header>
 	<div class="grid_11">
