@@ -30,13 +30,14 @@ Amador Valley Science Team</title>
 		<h1>Amador Valley Science Team</h1>
 		<ul class="nav">
 			<li><a href="#">About the club</a></li>
-			<li><a href="#">Events</a></li>
-			<ul class="nav">
-				<li><a href="#">Science Olympiad</a></li>
-				<li><a href="#">Academic Olympiad</a></li>
-				<li><a href="#">Bay Area Puzzle Hunt</a></li>
-				<li><a href="#">Science Bowl</a></li>
-			</ul>
+			<li><a href="#">Events</a>
+				<ul class="nav">
+					<li><a href="#">Science Olympiad</a></li>
+					<li><a href="#">Academic Olympiad</a></li>
+					<li><a href="#">Bay Area Puzzle Hunt</a></li>
+					<li><a href="#">Science Bowl</a></li>
+				</ul>
+			</li>
 			<li><a href="#">Gallery</a></li>
 			<li><a href="#">Contact</a></li>
 		</ul>
