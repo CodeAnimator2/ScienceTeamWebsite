@@ -6,4 +6,15 @@
 		<p><em><strong>CATS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</strong></em></p>
 		<img src="http://placekitten.com/640/480" alt="CATZ" />
 		<img src="http://placekitten.com/640/300" alt="MOAR CATZ" />
+		<h3>Have Some Lists</h3>
+		<ol>
+			<li>Bacon</li>
+			<li>Tomatoes</li>
+			<li>Lasagna</li>
+		</ol>
+		<ul>
+			<li>In Eiffel, the tilde is used for object comparison. If a and b denote objects, the boolean expression a ~ b has value true if an only if these objects are equal, as defined by the applicable version</li>
+			<li>Hello, World.</li>
+			<li>This is the part where he kills us!</li>
+		</ul>
 <?php include 'http://avscienceteam.com/g_footer.php'; ?>
