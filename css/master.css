@@ -6,7 +6,7 @@
 }
 
 body {
-	background: #ededed;
+	background: #ededed url("/img/subtlepatterns-white-texture.png");
 	-webkit-text-size-adjust: none;
 }
 
