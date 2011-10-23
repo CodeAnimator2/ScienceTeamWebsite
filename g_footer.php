@@ -1,5 +1,13 @@
-<footer></footer>
+	</div>
+
+<div class="clear"></div>
+<footer class="grid_16">
+	<p class="tilde">~</p>
+	<p>This is the footer.</p>
+</footer>
+</div>
 </body>
-<!-- file generated <?php
+<!-- page generated <?php
 putenv('TZ=America/Los_Angeles');
-echo date("Y/m/d h:i:sa", time());?> PST -->
+echo date("Y/m/d h:i:sa", time());
+?> PST -->
