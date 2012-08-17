@@ -16,7 +16,7 @@
 			<key>ESPublishServerStateMinimumUpdateTimeDifferenceKey</key>
 			<real>0.0</real>
 			<key>ESPublishServerStateModeKey</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>ESPublishServerStateNameKey</key>
 			<string>AVScienceTeam.com Bluehost</string>
 			<key>ESPublishServerStateOptionsKey</key>

@@ -1,10 +1,13 @@
-/* BASIC STUFF */
+/* CSS RESET
+ * Normalize stuff across browsers
+ */
 * {
 	border: 0px;
 	padding: 0px;
 	margin: 0px;
 }
 
+/* BASIC STUFF */
 body {
 	background: #ededed url("/img/subtlepatterns-white-texture.png");
 	-webkit-text-size-adjust: none;

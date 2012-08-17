@@ -21,6 +21,7 @@
 <body>
 <div class="container_16">
 	<header class="grid_5">
+		<!-- Logo from The Noun Project <http://thenounproject.com/noun/erlenmeyer-flask/#icon-No337>. -->
 		<div id="logo">
 			<a href="#">
 				<img src="/img/logo.png" class="normal" alt="placekitten" />
