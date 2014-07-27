@@ -2,13 +2,13 @@
 <?php include $domain . 'g_document.php'; ?>
 
 	<style type="text/css">
-		#none {
+		#nav-about {
 			background-color: #339bd5;
 			color: #f5f5f5;
 			text-shadow: none;
 		}
 	</style>
-	<title>Home<?php include $domain . 'g_header.php'; ?>
-		<h2>Welcome to Amador Valley Science Team.</h2>
-		<p>Content coming soon.</p>
+	<title>Coming Soon<?php include $domain . 'g_header.php'; ?>
+		<h2>Content coming soon.</h2>
+		<p>Check back later?</p>
 <?php include $domain . 'g_footer.php'; ?>

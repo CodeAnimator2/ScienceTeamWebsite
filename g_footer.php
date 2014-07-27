@@ -3,7 +3,6 @@
 <div class="clear"></div>
 <footer class="grid_16">
 	<p class="tilde">~</p>
-	<p>This is the footer.</p>
 </footer>
 </div>
 </body>

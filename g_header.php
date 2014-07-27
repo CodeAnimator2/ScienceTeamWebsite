@@ -23,7 +23,7 @@
 	<header class="grid_5">
 		<!-- Logo from The Noun Project <http://thenounproject.com/noun/erlenmeyer-flask/#icon-No337>. -->
 		<div id="logo">
-			<a href="#">
+			<a href="/">
 				<img src="/img/logo.png" class="normal" alt="placekitten" />
 				<img src="/img/logo-hover.png" class="hover" alt="placekitten" />
 			</a>
@@ -33,10 +33,10 @@
 			<li><a id="nav-about" href="/about/">About the club</a></li>
 			<li><a id="nav-events" href="/events/">Events</a>
 				<ul class="nav">
-					<li><a id="nav-scioly" href="/science-olympiad/">Science Olympiad</a></li>
-					<li><a id="nav-academicoly" href="/academic-olympiad/">Academic Olympiad</a></li>
-					<li><a id="nav-puzzlehunt" href="/puzzle-hunt/">Bay Area Puzzle Hunt</a></li>
-					<li><a id="nav-scibowl" href="/science-bowl/">Science Bowl</a></li>
+					<li><a id="nav-scioly" href="/events/science-olympiad/">Science Olympiad</a></li>
+					<li><a id="nav-academicoly" href="/events/academic-olympiad/">Academic Olympiad</a></li>
+					<li><a id="nav-puzzlehunt" href="/events/puzzle-hunt/">Bay Area Puzzle Hunt</a></li>
+					<li><a id="nav-scibowl" href="/events/science-bowl/">Science Bowl</a></li>
 				</ul>
 			</li>
 			<li><a id="nav-gallery" href="/gallery/">Gallery</a></li>
