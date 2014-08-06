@@ -22,7 +22,10 @@
 		</ul>
 		<ul class = "nav">
 			<li><h4>Cynthia Chen, Vice President of Communications</h4>
-			    <p><small>Cynthia Chen is a senior who has been a part of Amador Valley Science Team since freshman year. Last year, she served as Treasurer, and she is excited to return as Vice President of Communications this year. She has participated in Science Olympiad since 8th grade and her favorite events are Forensics and Sounds of Music. The previous summer, she spent her time at the Women’s Technology Program in MIT. Apart from the STEM realm, she is also involved in band, DECA, and ballet.</small></p>
+				<table>
+					<td><img src = "img/CynthiaC.jpg" width = "300"></td>
+			    	<td><p><small>Cynthia Chen is a senior who has been a part of Amador Valley Science Team since freshman year. Last year, she served as Treasurer, and she is excited to return as Vice President of Communications this year. She has participated in Science Olympiad since 8th grade and her favorite events are Forensics and Sounds of Music. The previous summer, she spent her time at the Women’s Technology Program in MIT. Apart from the STEM realm, she is also involved in band, DECA, and ballet.</small></p></td>
+				</table>
 			</li>
 		</ul>
 		<ul class = "nav">
