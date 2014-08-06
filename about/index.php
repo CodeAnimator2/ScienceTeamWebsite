@@ -25,7 +25,7 @@
 		<p><small>Since his freshman year, Steven has competed in most of the academic pentathlon and science bowl. Now as a senior and VP of Resources, he is eager to help take charge of Amador Valley Science Team and lead it to a new direction. He welcomes all who share his enthusiasm for science and the challenges STEM brings. In addition to Science Team, he also enjoys being a part of SciFY, DECA, and badminton club.</small></p>
 		
 		<h4>Cynthia Tien, Treasurer</h4>
-		<p><i>Biography coming soon&hellip;</i></p>
+		<p><small>Cynthia is a senior this year who has been a member of Science Team since sophomore year. She has participated in the Science Olympiad competitions for the past two years, last year serving as captain of Gold Team. Her leadership experience includes working closely with different elementary science teams in the area and organizing the first elementary science olympiad in Pleasanton. In her free time she enjoys playing water polo and swimming.</small></p>
 		
 		<h4>Thi Nguyen, Secretary</h4>
 		<p><small>Thi is currently a junior who has been part of SciOly since 8th grade and has been on Team A since freshman year. Last year, she filled her time with marching band, Wind Ensemble I Concert band, CBDA, and DECA. She is excited to see Science Team evolve over time and is looking forward to helping elevate Science Team to new heights this upcoming year. Her favorite food is jasmine green tea with boba from Quickly's (and considers it a food because it involves chewing).</small></p>
