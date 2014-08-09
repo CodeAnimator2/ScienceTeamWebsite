@@ -41,7 +41,7 @@
 		</ul>
 		<ul class = "nav">
 			<li><h4>Thi Nguyen, Secretary</h4>
-				<table cellspacing "10">
+				<table cellspacing = "10">
 					<td><img src = "/img/Thi.png" width = "175"></td>
 				    <td><p><small>Thi is currently a junior who has been part of SciOly since 8th grade and has been on Team A since freshman year. Last year, she filled her time with marching band, Wind Ensemble I Concert band, CBDA, and DECA. She is excited to see Science Team evolve over time and is looking forward to helping elevate Science Team to new heights this upcoming year. Her favorite food is jasmine green tea with boba from Quickly's (and considers it a food because it involves chewing).</small></p></td>
 				</table>
