@@ -18,6 +18,7 @@
 		<ul class = "nav">
 			<li><h4>Janel Lee, President</h4>
 			    <p><small>Janel is a senior this year who has been with Science Team since she was a freshman. Last year, she served as Secretary and Captain of Science Olympiad Team Purple. She has participated in other competitions such as the USA Computing Olympiad and the Intel International Science & Engineering Fair. Her leadership experience stems from serving as an officer for other clubs and organizing events in the Academic Pentathlon for Science Team members.</small></p>
+		    	<p><small><i>"I greatly look forward to work with AVaST members to help them succeed in the various events our club has to offer. We're all part of one team, so whenever you have a question or need some help, don't be afraid to reach out to me!"</i></small></p>
 		    </li>
 		</ul>
 		<ul class = "nav">
