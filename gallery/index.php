@@ -11,4 +11,8 @@
 	<title>Gallery<?php include $domain . 'g_header.php'; ?>
 		<h2>Gallery</h2>
 		<p>Content coming soon.</p>
+		<table cellspacing = "10">
+			<tr>
+				<td> <img src = "" width = "200"> </td>
+			</tr>
 <?php include $domain . 'g_footer.php'; ?>
