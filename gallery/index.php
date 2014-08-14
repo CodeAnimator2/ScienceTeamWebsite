@@ -10,13 +10,15 @@
 	</style>
 	<title>Gallery<?php include $domain . 'g_header.php'; ?>
 		<h2>Gallery</h2>
+		<table cellspacing = "1">
+			<tr>
+				<td> <img src = "/img/Gallery/Fresno2012.png" width = "720"> </td>
+			</tr>
+			<tr>
+				<td> <img src = "/img/Gallery/ScienceTeam.png" width = "720"> </td>
+			</tr>
+		</table>
 		<table cellspacing = "30">
-			<tr>
-				<td> <img src = "/img/gallery/Fresno2012.png" width = "660"> </td>
-			</tr>
-			<tr>
-				<td> <img src = "/img/gallery/ScienceTeam.png" width = "660"> </td>
-			</tr>
 			<tr>
 				<td> <img src = "/img/Gallery/2013_BuildEvent.png" width = "200"> </td>
 				<td> <img src = "/img/Gallery/YashMaglev.png" width = "200"> </td>
@@ -28,7 +30,9 @@
 				<td> <img src = "/img/Gallery/PerryScrambler.png" width = "200"> </td>
 			</tr>
 			<tr>
-				<td> <img src = "/img/Gallery/PerryScrambler2.png" width = "200"> </td>
-				<td> <img src = "/img/Gallery/SparklyRose.png" width = "400"> </td>
+				<td> <img src = "/img/Gallery/PerryScrambler2.png" width = "200"> </td>					
+				<td> <img src = "/img/Gallery/SparklyRose.png" width = "200"> </td>
 			</tr>
+		</table>
+		
 <?php include $domain . 'g_footer.php'; ?>
