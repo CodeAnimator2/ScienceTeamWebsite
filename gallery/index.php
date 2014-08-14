@@ -13,6 +13,21 @@
 		<p>Content coming soon.</p>
 		<table cellspacing = "10">
 			<tr>
-				<td> <img src = "" width = "200"> </td>
+				<td> <img src = "/img/Gallery/2013_BuildEvent.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/Fresno2012.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/Janel_CynthiaC.png" width = "200"> </td>
+			</tr>
+			<tr>
+				<td> <img src = "/img/Gallery/YashMaglev.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/JenniferBoomilever.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/PerryScrambler.png" width = "200"> </td>
+			</tr>
+			<tr>
+				<td> <img src = "/img/Gallery/PerryScrambler2.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/JanelProject.png" width = "200"> </td>
+				<td> <img src = "/img/Gallery/SparklyRose.png" width = "200"> </td>
+			</tr>
+			<tr>
+				<td> <img src = "/img/Gallery/ScienceTeam.png" width = "200"> </td>
 			</tr>
 <?php include $domain . 'g_footer.php'; ?>
