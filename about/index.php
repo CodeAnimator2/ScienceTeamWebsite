@@ -48,7 +48,7 @@
 			</li>
 		</ul>
 
-		<h3>Meet the advisers.</h3>
+		<h3>Meet the advisor.</h3>
 		<h4>Tom Hall, Physics teacher</h4>
 		<p><i>Biography coming soon&hellip;</i></p>
 		
