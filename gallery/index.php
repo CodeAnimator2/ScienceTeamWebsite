@@ -12,13 +12,13 @@
 		<h2>Gallery</h2>
 		<table cellspacing = "1">
 			<tr>
-				<td> <img src = "/img/Gallery/Fresno2012.png" width = "720"> </td>
+				<td> <img src = "/img/Gallery/Fresno2012.png" width = "680"> </td>
 			</tr>
 			<tr>
-				<td> <img src = "/img/Gallery/ScienceTeam.png" width = "720"> </td>
+				<td> <img src = "/img/Gallery/ScienceTeam.png" width = "680"> </td>
 			</tr>
 		</table>
-		<table cellspacing = "30">
+		<table cellspacing = "20">
 			<tr>
 				<td> <img src = "/img/Gallery/2013_BuildEvent.png" width = "200"> </td>
 				<td> <img src = "/img/Gallery/YashMaglev.png" width = "200"> </td>
