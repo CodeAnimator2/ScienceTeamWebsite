@@ -17,7 +17,7 @@
 		<h3>Meet the officers of AVaST 2014-2015</h3>
 		<ul class = "nav">
 			<li><h4>Janel Lee, President</h4>
-			    <p><small>Janel is a senior this year who has been with Science Team since she was a freshman. Last year, she served as Secretary and Captain of Science Olympiad Team Purple. She has participated in other competitions such as the USA Computing Olympiad and the Intel International Science & Engineering Fair. Her leadership experience stems from serving as an officer for other clubs and organizing events in the Academic Pentathlon for Science Team members.</small></p>
+			    <p><small>Janel is a senior this year who has been with Science Team since she was a freshman. Last year, she served as Secretary and Captain of Science Olympiad Team Purple. She has participated in other competitions such as the USA Computing Olympiad and the Intel International Science & Engineering Fair. Her leadership experience stems from serving as an officer for other clubs and organizing events in the Academic Pentathlon for Science Team members. Email <a href = "mailto:janellee@avscienceteam.com">janellee@avscienceteam.com</a></small></p>
 		    	<p><small><i>"I greatly look forward to work with AVaST members to help them succeed in the various events our club has to offer. We're all part of one team, so whenever you have a question or need some help, don't be afraid to reach out to me!"</i></small></p>
 		    </li>
 		</ul>
@@ -31,7 +31,7 @@
 		</ul>
 		<ul class = "nav">
 			<li><h4>Steven Chang, Vice President of Resources</h4>
-			    <p><small>Since his freshman year, Steven has competed in most of the academic pentathlon and science bowl. Now as a senior and VP of Resources, he is eager to help take charge of Amador Valley Science Team and lead it to a new direction. He welcomes all who share his enthusiasm for science and the challenges STEM brings. In addition to Science Team, he also enjoys being a part of SciFY, DECA, and badminton club.</small></p>
+			    <p><small>Since his freshman year, Steven has competed in most of the academic pentathlon and science bowl. Now as a senior and VP of Resources, he is eager to help take charge of Amador Valley Science Team and lead it to a new direction. He welcomes all who share his enthusiasm for science and the challenges STEM brings. In addition to Science Team, he also enjoys being a part of SciFY, DECA, and badminton club. Email <a href = "mailto:stevenchang@avscienceteam.com">stevenchang@avscienceteam.com</a></small></p>
 			</li>
 		</ul>
 		<ul class = "nav">

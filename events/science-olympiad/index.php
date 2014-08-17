@@ -24,12 +24,12 @@
 		<p>Because it was the competition that Science Team was first founded around, Science Olympiad is our largest event.</p>
 		<p>The Science Olympiad competition is composed of many events, which are based on theoretical knowledge (Study events), practical knowledge (Lab events), and engineering knowledge (Build events). It&rsquo;s the most hands-on of all the events we offer. In the past, participants have worked on a diverse set of projects:</p>
 		<ul>
-			<li>building pitch-accurate musical instruments from household supplies</li>
-			<li>modeling immune proteins with foam-covered wire</li>
-			<li>investigating mock crime scenes</li>
-			<li>stargazing</li>
-			<li>constructing a robotic arm and using it to sort objects into bins</li>
-			<li>launching a helicopter made of balsa wood and rubber bands</li>
+			<li>Building pitch-accurate musical instruments from household supplies</li>
+			<li>Modeling immune proteins with foam-covered wire</li>
+			<li>Investigating mock crime scenes</li>
+			<li>Stargazing</li>
+			<li>Constructing a robotic arm and using it to sort objects into bins</li>
+			<li>Launching a helicopter made of balsa wood and rubber bands</li>
 		</ul>
 		<p>Amador&rsquo;s Science Olympiad teams consist of 15 students each. Students work in pairs: each pair of students is given responsibility of a few events each.</p>
 		<p>Last year, Amador sent three teams to the Bay Area Regional Science Olympiad competition at Foothill High School. There, Team A placed 4th and qualified for the State competition&mdash;a first in Amador history. At the state-level competition in Fresno, Team A placed 9th.</p>
