@@ -148,6 +148,11 @@ img {
 	text-shadow: none;
 }
 
+.bio {
+	border-bottom: 1px solid #c3c3c3;
+	list-style-type: none;
+}
+
 .tilde {
 	font-family: Cambria, Georgia, Times;
 	font-size: 72px;

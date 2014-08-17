@@ -15,13 +15,14 @@
 		<p><i>Content coming soon&hellip;</i></p>
 		
 		<h3>Meet the officers of AVaST 2014-2015</h3>
-		<ul class = "nav">
+		<ul class = "bio">
 			<li><h4>Janel Lee, President</h4>
-			    <p><small>Janel is a senior this year who has been with Science Team since she was a freshman. Last year, she served as Secretary and Captain of Science Olympiad Team Purple. She has participated in other competitions such as the USA Computing Olympiad and the Intel International Science & Engineering Fair. Her leadership experience stems from serving as an officer for other clubs and organizing events in the Academic Pentathlon for Science Team members. Email <a href = "mailto:janellee@avscienceteam.com">janellee@avscienceteam.com</a></small></p>
-		    	<p><small><i>"I greatly look forward to work with AVaST members to help them succeed in the various events our club has to offer. We're all part of one team, so whenever you have a question or need some help, don't be afraid to reach out to me!"</i></small></p>
+			    <p><small>Janel is a senior this year who has been with Science Team since she was a freshman. Last year, she served as Secretary and Captain of Science Olympiad Team Purple. She has participated in other competitions such as the USA Computing Olympiad and the Intel International Science & Engineering Fair. Her leadership experience stems from serving as an officer for other clubs and organizing events in the Academic Pentathlon for Science Team members.</p>
+		    	<p><small><i>"I greatly look forward to work with AVaST members to help them succeed in the various events our club has to offer. We're all part of one team, so whenever you have a question or need some help, don't be afraid to reach out to me at <a href = "mailto:janellee@avscienceteam.com">janellee@avscienceteam.com</a></small>!"</i></p>
+                        
 		    </li>
 		</ul>
-		<ul class = "nav">
+		<ul class = "bio">
 			<li><h4>Cynthia Chen, Vice President of Communications</h4>
 				<table cellspacing = "10">
 					<td><img src = "/img/CynthiaC.png" width = "175"></td>
@@ -29,17 +30,18 @@
 				</table>
 			</li>
 		</ul>
-		<ul class = "nav">
+		<ul class = "bio">
 			<li><h4>Steven Chang, Vice President of Resources</h4>
-			    <p><small>Since his freshman year, Steven has competed in most of the academic pentathlon and science bowl. Now as a senior and VP of Resources, he is eager to help take charge of Amador Valley Science Team and lead it to a new direction. He welcomes all who share his enthusiasm for science and the challenges STEM brings. In addition to Science Team, he also enjoys being a part of SciFY, DECA, and badminton club. Email <a href = "mailto:stevenchang@avscienceteam.com">stevenchang@avscienceteam.com</a></small></p>
+			    <p><small>Since his freshman year, Steven has competed in most of the academic pentathlon and science bowl. Now as a senior and VP of Resources, he is eager to help take charge of Amador Valley Science Team and lead it to a new direction. He welcomes all who share his enthusiasm for science and the challenges STEM brings. In addition to Science Team, he also enjoys being a part of SciFY, DECA, and badminton club.</p>
+                            <p>Contact: <a href = "mailto:stevenchang@avscienceteam.com">stevenchang@avscienceteam.com</a></small></p>
 			</li>
 		</ul>
-		<ul class = "nav">
+		<ul class = "bio">
 			<li><h4>Cynthia Tien, Treasurer</h4>
 			    <p><small>Cynthia is a senior this year who has been a member of Science Team since sophomore year. She has participated in the Science Olympiad competitions for the past two years, last year serving as captain of Gold Team. Her leadership experience includes working closely with different elementary science teams in the area and organizing the first elementary science olympiad in Pleasanton. In her free time she enjoys playing water polo and swimming.</small></p>
 			</li>
 		</ul>
-		<ul class = "nav">
+		<ul class = "bio">
 			<li><h4>Thi Nguyen, Secretary</h4>
 				<table cellspacing = "10">
 					<td><img src = "/img/Thi.png" width = "175"></td>
