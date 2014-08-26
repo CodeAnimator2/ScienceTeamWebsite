@@ -35,7 +35,7 @@
 				<ul class="nav">
 					<li><a id="nav-scioly" href="/events/science-olympiad/">Science Olympiad</a></li>
 					<li><a id="nav-academicoly" href="/events/academic-olympiad/">Academic Olympiad</a></li>
-					<li><a id="nav-puzzlehunt" href="/events/puzzle-hunt/">Bay Area Puzzle Hunt</a></li>
+					<!--<li><a id="nav-puzzlehunt" href="/events/puzzle-hunt/">Bay Area Puzzle Hunt</a></li>-->
 					<li><a id="nav-scibowl" href="/events/science-bowl/">Science Bowl</a></li>
 				</ul>
 			</li>
