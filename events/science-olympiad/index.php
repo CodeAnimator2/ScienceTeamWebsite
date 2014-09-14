@@ -12,13 +12,13 @@
 		<h2>Science Olympiad</h2>
 		
 		<table class="eventinfo">
-			<tr><th>Time</th><td>9 February 2013</td></tr>
-			<tr><th>Location</th><td>Foothill High School</td></tr>
-			<tr><th>Participation</th><td>2 teams of 15&nbsp;people</td></tr>
+			<tr><th>Time</th><td>21 March 2015</td></tr>
+			<tr><th>Location</th><td>California State University East Bay</td></tr>
+			<tr><th>Participation</th><td>3 teams of 15&nbsp;people, plus alternates</td></tr>
 			<tr><th>Prerequisites</th><td>none</td></tr>
-			<tr><th>Tryout Process</th><td>none</td></tr>
+			<tr><th>Tryout Process</th><td>TBD</td></tr>
 			<tr><th>Resources</th><td><a href="http://scioly.org/wiki/Main_Page">Student Center</a><br /><a href="http://soinc.org/2012_div_c_events">Competition Website</a></td></tr>
-			<tr><th>Contact</th><td><a href="mailto:cxu.christine@gmail.com">Christine Xu</a></td></tr>
+			<tr><th>Contact</th><td><a href="mailto:cynthiachen@avscienceteam.com">Cynthia Chen</a></td></tr>
 		</table>
 		
 		<p>Because it was the competition that Science Team was first founded around, Science Olympiad is our largest event.</p>

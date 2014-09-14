@@ -12,7 +12,7 @@
 		<h2>Academic Olympiad Pentathlon</h2>
 		
 		<table class="eventinfo">
-			<tr><th>Time</th><td>tests given throughout 2013</td></tr>
+			<tr><th>Time</th><td>tests given throughout 2015</td></tr>
 			<tr><th>Location</th><td>typically Amador Valley High School</td></tr>
 			<tr><th>Participation</th><td>unlimited teams of 1&nbsp;person</td></tr>
 			<tr><th>Prerequisites</th><td>none, but an AP class in the subject of the test is recommended</td></tr>

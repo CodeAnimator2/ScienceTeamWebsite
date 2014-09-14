@@ -11,8 +11,7 @@
 	<title>About<?php include $domain . 'g_header.php'; ?>
 		<h2>About Amador Valley Science Team</h2>
 		
-		<h3>Goals</h3>
-		<p><i>Content coming soon&hellip;</i></p>
+		
 		
 		<h3>Meet the officers of AVaST 2014-2015</h3>
 		<ul class = "bio">
@@ -56,7 +55,7 @@
 		</ul>
 
 		<h3>Meet the advisor.</h3>
-		<h4>Tom Hall, Physics teacher</h4>
+		<h4>Thomas Dalldorf, Social Studies teacher and former Science teacher</h4>
 		<p><i>Biography coming soon&hellip;</i></p>
 		
 <?php include $domain . 'g_footer.php'; ?>
