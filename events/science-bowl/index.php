@@ -18,7 +18,7 @@
 			<tr><th>Prerequisites</th><td><em>Coming soon&hellip;</em</td></tr>
 			<tr><th>Tryout Process</th><td><em>Coming soon&hellip;</em></td></tr>
 			<tr><th>Resources</th><td><a href="http://science.energy.gov/nsb/high-school/high-school-regionals/hs-rules-forms-resources/sample-science-bowl-questions/">DOE List of Sample Questions</a></td></tr>
-			<tr><th>Contact</th><td><a href="mailto:jerrylinew@gmail.com">Jerry Li</a></td></tr>
+			<tr><th>Contact</th><td><a href="mailto:varun28.govil@gmail.com">Varun Govil</a></td></tr>
 		</table>
 		
 		<p>The US Department of Energy National Science Bowl is a competition that tests knowledge in with multiple-choice and short-answer questions from all areas of science: biology, chemistry, physics, geology, astronomy, energy, and math. Though team members always score points for their team, they will answer questions both individually (Toss-Up) and collaboratively (Bonus).</p>

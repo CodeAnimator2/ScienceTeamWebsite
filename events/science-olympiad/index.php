@@ -16,7 +16,7 @@
 			<tr><th>Location</th><td>California State University East Bay</td></tr>
 			<tr><th>Participation</th><td>3 teams of 15&nbsp;people, plus alternates</td></tr>
 			<tr><th>Prerequisites</th><td>none</td></tr>
-			<tr><th>Tryout Process</th><td>TBD</td></tr>
+			<tr><th>Tryout Process</th><td><a href = "https://docs.google.com/forms/d/1TbPPFsOBrFUXNyKyiRfRzWz04p9aE1hGjjf7UF19TH8/viewform" target = "_blank">Click here for the application</a></td></tr>
 			<tr><th>Resources</th><td><a href="http://scioly.org/wiki/Main_Page">Student Center</a><br /><a href="http://soinc.org/2012_div_c_events">Competition Website</a></td></tr>
 			<tr><th>Contact</th><td><a href="mailto:cynthiachen@avscienceteam.com">Cynthia Chen</a></td></tr>
 		</table>
